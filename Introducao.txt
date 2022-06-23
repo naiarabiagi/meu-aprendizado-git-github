@@ -1,0 +1,15 @@
+Introdução Git:
+
+Git é um sistema de Controle de Versão de Arquivos.
+Com ele é possível desenvolver projetos colaborativos com facilidade.
+Também é possível recuperar uma versão específica, registrar diferente modificação de 
+um arquivo. 
+Pode ser resolvido problemas como perda de arquivos importantes e resgate de 
+versão anterior.
+
+Introdução Github:
+
+Github é um serviço de hospedagem de projetos Git, ele permite deixar os projetos 
+privados e publicos.
+Ajuda como portfólio online para hospedar seu projetos para que as pessoas que tenha 
+interesse possam acessar e ver o conteúdo que você já publicou.
