@@ -1,0 +1,9 @@
+Conectando com o Github:
+
+O primeiro passo é criar uma conta no site github.com
+Após criada a conta é possivel pesquisar varios códigos que já
+foram feitos, tanto para usa-los em algum projeto pessoal ou contribuir para 
+projetos já prontos.
+E também subir os próprios códigos para que outras pessoas possam ter acesso ao seu 
+projeto.
+
