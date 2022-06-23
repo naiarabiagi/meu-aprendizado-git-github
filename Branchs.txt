@@ -1,0 +1,14 @@
+Sobre Branchs:
+
+Branchs são ramos que servem para desenvolvermos funcionalidades isoladas, 
+por exemplo cada pessoa desenvolve uma parte, pessoa 'A' faz a tela de login
+enquanto a pessoa 'B' desenvolve o conteúdo, ambas podem trabalhar no mesmo projetos
+sem interferir no código do outro e quando estiver pronto junta os projetos em uma
+Branch única.
+
+A Branch Master é a principal, sempre que é feito alterações nos ramos das Branchs no final 
+todas juntas com o Branch Master.
+
+Também é possível enviar mudanças de uma Branch para outra usando o comando Merge.
+git merge + nome da Branch que quer adicionar.
+
