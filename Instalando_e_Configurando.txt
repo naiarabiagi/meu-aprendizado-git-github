@@ -1,0 +1,19 @@
+Instalando o Git:
+
+Para fazer a instalação é necessário acessar o link git-scm.com/downloads e escolher
+o sistema operacional do computador para instalação.
+
+Configurando o Git:
+
+Para fazer a configuração é necessário inserir o git name e o git email.
+No terminal digita o seguinte comando: 
+git config --global user.name "Naiara Biagi"
+git config --global user.email "naiarabiagi@gmail.com"
+
+Para testar se deu certo a configuração de nome e e-mail é só digitar o comando:
+git config --list
+
+Essa configuração pe necessária pois toda alteração que for feita no código
+aparecera o nome da pessoa que fez a alteração.
+
+
